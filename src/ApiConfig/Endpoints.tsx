@@ -1,0 +1,1 @@
+export const DogsList = 'https://raw.githubusercontent.com/DevTides/DogsApi/master/dogs.json'
